@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: Calibri, 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}

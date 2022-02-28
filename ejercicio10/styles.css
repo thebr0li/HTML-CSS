@@ -1,0 +1,35 @@
+h1{
+    color: rgb(46, 151, 116);
+}
+
+h2{
+    color: blue;
+}
+
+a{
+    color: red;
+}
+
+strong{
+    color: red;
+}
+
+.especial{
+    color: goldenrod;
+}
+
+tr{
+    color: green;
+}
+
+.destacado{
+    color: goldenrod;
+}
+
+#adicional{
+    color: darkolivegreen;
+}
+
+#especial{
+    color: fuchsia;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url(./img/Linkin_Park_icono-original.png);
+    background-size: 10%;
+}
+
+h1{
+    background-color: rgb(100, 148, 237);
+    width: 15%;
+}
+
+h3{
+    background-color: rgba(100, 148, 237, 0.986);
+    width: 25%;
+}
+
+p{
+    width: 50%;
+    background-color: rgba(100, 148, 237, 0.425);
+}
+
+table{
+    background-color: rgba(100, 148, 237, 0.637);
+}
+
+ul{
+    background-color: rgba(100, 148, 237, 0.836);
+
+    width: 15%;
+}

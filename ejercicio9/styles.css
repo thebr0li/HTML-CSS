@@ -1,0 +1,11 @@
+ul{
+    color: white;
+    background-color: black;
+    height: 50%;
+}
+
+ul :hover{
+    color: black;
+    background-color: white;
+    height: 50%;
+}
